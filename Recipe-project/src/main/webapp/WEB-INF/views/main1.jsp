@@ -49,9 +49,9 @@
   </div>
 </nav>
   
- <img src="../resources/static/img/main1.jpg">
- <img src="../resources/static/img/main2.jpg">
- <img src="../resources/static/img/main3.jpg">
+ <img src="main1.jpg">
+ <img src="main2.jpg">
+ <img src="main3.jpg">
  
  </body>
  
